@@ -31,6 +31,5 @@ namespace Taxi
         {
             Console.WriteLine("{0} selesai mengantar penumpang", DriverName);
         }
-
     }
 }
